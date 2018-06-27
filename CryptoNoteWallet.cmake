@@ -1,0 +1,4 @@
+set(CN_PROJECT_NAME "Cobitcoin")
+set(CN_CURRENCY_DISPLAY_NAME "cobitcoin")
+set(CN_CURRENCY_TICKER "CBC")
+set(CN_VERSION 1.2.0)

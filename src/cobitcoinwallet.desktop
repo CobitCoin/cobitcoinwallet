@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Cobitcoin Wallet
+Comment=Cobitcoin wallet
+Exec=Cobitcoin %U
+Terminal=false
+Type=Application
+Icon=cobitcoin
+MimeType=x-scheme-handler/cobitcoin;
+Categories=Office;Finance;
